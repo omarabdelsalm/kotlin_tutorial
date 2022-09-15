@@ -3,6 +3,7 @@ fun main() {
     var firstName="Hello\nOmar Alshobky\nthis my name"
     var fullName: String=""
     var intNam:Int=32
+    // دالة الاخراج او الطباعة
     println(fullName.isEmpty())
     println(intNam)
 
