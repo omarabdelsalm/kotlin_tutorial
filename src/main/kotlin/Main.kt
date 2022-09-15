@@ -1,4 +1,5 @@
 fun main() {
+    // للنزول سطر اثناء الطباعة نستخدم n\
     var firstName="Hello\nOmar Alshobky\nthis my name"
     var fullName: String=""
     var intNam:Int=32
